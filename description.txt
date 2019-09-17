@@ -2,3 +2,5 @@
 
 
 3. I am using python scrapy to crawl the data.
+
+5. Spider is an sub class of scrapy module 
