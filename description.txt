@@ -1,4 +1,4 @@
-In this project we are going the crawl the content of the website and stored in the json format at the first step
+2. In this project we are going the crawl the content of the website and stored in the json format at the first step
 
 
-I am using python scrapy to crawl the data.
+3. I am using python scrapy to crawl the data.
