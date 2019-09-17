@@ -1,6 +1,12 @@
+
 2. In this project we are going the crawl the content of the website and stored in the json format at the first step
 
 
 3. I am using python scrapy to crawl the data.
 
 5. Spider is an sub class of scrapy module 
+
+1. In this project we are going the crawl the content of the website and stored in the json format at the first step
+
+4. Now data is added in master branch
+
